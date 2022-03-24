@@ -1,0 +1,2 @@
+I see a little cat on a mouse.
+Can this be a palindrome?
